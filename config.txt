@@ -1,0 +1,22 @@
+======================================== Graphics Configurations
+Background Brightness 		[10]
+UI Opacity					[100]
+Object Opacity				[100]
+Outline Brightness			[33]
+Resource Opacity			[100]
+======================================== Data Display Configurations
+Show FPS					[true]
+Object Info Detail			[2]
+Grid Lines					[2]
+Temperature Display			[2]
+Sunlight Display			[0]
+======================================== Mechanics Configurations
+Max FPS						[100]
+Interaction Radius			[200]
+Effect Radius				[1.0]
+Detection Radius			[1.0]
+Object Radius				[1.0]
+Auto Save					[2]
+Proteins Limit				[500]
+Spores Limit				[1000]
+Resources Limit				[300]
